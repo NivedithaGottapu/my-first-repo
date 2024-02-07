@@ -1,1 +1,2 @@
 This is my first story!!
+This is my new version of story1cat story1.txt
